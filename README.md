@@ -4,7 +4,7 @@
 The Ride Booking System (RBS) is a mobile-based application that connects riders with drivers for transportation services[cite: 91]. It integrates with GPS services, payment gateways, and a cloud database to provide a seamless experience.
 
 ## 👥 System Users
-1. **Rider:** A basic mobile user who requests rides and pays for the service[cite: 137, 138].
+1. **Rider:** A basic mobile user who requests rides and pays for the service.
 2. **Driver:** A registered and verified user who accepts and completes trips .
 3. **Admin:** Has full system access to manage users and track trips.
 
