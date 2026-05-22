@@ -1,7 +1,7 @@
 # Ride Booking System (RBS) - Software Requirements Specification
 
 ## 📌 Project Overview
-The Ride Booking System (RBS) is a mobile-based application that connects riders with drivers for transportation services[cite: 91]. It integrates with GPS services, payment gateways, and a cloud database to provide a seamless experience.
+The Ride Booking System (RBS) is a mobile-based application that connects riders with drivers for transportation services. It integrates with GPS services, payment gateways, and a cloud database to provide a seamless experience.
 
 ## 👥 System Users
 1. **Rider:** A basic mobile user who requests rides and pays for the service.
